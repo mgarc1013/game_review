@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<reviews>
+	<review>
+		<title>Rocket League</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=1</link>
+		<description>Addictive and fun with crisp visuals.</description>
+	</review>
+	<review>
+		<title>Fallout 4</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=2</link>
+		<description>A loving production. Its filled with care and attention to detail like the expanded set of radio stations, or the way flash radiation storms bathe the world in a sickly, ominous green hue. It's a pleasure to pick through the world, to discover new sights, and to pick through the perks and customisation option to conceive the perfect character build, however bizarre.</description>
+	</review>
+	<review>
+		<title>Super Smash Bros: Wii U</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=3</link>
+		<description>With the Wii U release, Smash Bros. has fully realized its goals.</description>
+	</review>
+	<review>
+		<title>The Witcher 3</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=4</link>
+		<description>A thoughtful, diverse, and frequently awe-inspiring adventure.</description>
+	</review>
+	<review>
+		<title>The Legend of Zelda: BotW</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=5</link>
+		<description>A wonderful sandbox full of mystery, dangling dozens upon dozens of tantalizing things in front of you that just beg to be explored.</description>
+	</review>
+	<review>
+		<title>FIFA 17</title>
+		<link>http://sulley.cah.ucf.edu/~mi853358/dig3134/assignment06/review.php?review_id=6</link>
+		<description>A terrific story mode and improved graphics make for a better game than last year though its behind PES on the pitch.</description>
+	</review>
+</reviews>
